@@ -1,0 +1,23 @@
+{
+  "name": "voip",
+  "version": "1.0.0",
+  "description": "Voice over IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismatthieu/voip.git"
+  },
+  "keywords": [
+    "voip",
+    "webrtc"
+  ],
+  "author": "chrismatthieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismatthieu/voip/issues"
+  },
+  "homepage": "https://github.com/chrismatthieu/voip#readme"
+}
